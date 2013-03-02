@@ -1,4 +1,15 @@
 *.log
 *.pot
-*.pyc
-local_settings.py
+bin/*
+include/*
+share/*
+lib/*
+man/*
+local/*
+.Python
+.*.swp
+*.py[co]
+*.sublime*
+.sass-cache
+.idea/*
+*.log
